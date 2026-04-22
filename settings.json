@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mctiers-eVUb.aternos.me:20489",
+    "ip": "mctiers-eVUb.aternos.me",
     "port": 20489,
     "version": "",
     "try-creative": false
