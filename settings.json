@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "serverbot",
+    "username": "slobot",
     "password": "",
     "type": "offline"
   },
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": false,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 500000000,
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
